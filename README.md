@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Scherida!
 
 ## 🛠 About me:
+
+<img align='right' src="https://gph.is/g/ajW5LKY" width="230"> 
+
 <p align="left"> 
   I’m <strong>Information Systems</strong> student looking for opportunities and collaboration in projects related to Back-End.
 </p>
