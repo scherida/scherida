@@ -2,7 +2,7 @@
 
 ## 🛠 About me:
 
-<img align='right' src="https://gph.is/g/ajW5LKY" width="230"> 
+<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230"> 
 
 <p align="left"> 
   I’m <strong>Information Systems</strong> student looking for opportunities and collaboration in projects related to Back-End.
