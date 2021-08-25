@@ -32,8 +32,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherida&theme=dark&layout=compact" /></td>
-      <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=scherida&theme=dark&show_icons=true?count_private=true" /></td>
+      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherida&theme=tokyonight&layout=compact" /></td>
+      <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherida&layout=compact&theme=tokyonight" /></td>
   </tr>   
 </table>
 </center>
