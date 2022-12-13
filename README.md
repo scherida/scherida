@@ -7,7 +7,6 @@
 
  - 😄 I’m <strong>Information Systems</strong> student looking for opportunities and collaboration in projects related to Back-End.
  - 🔭 I’m currently working as a Java Developer.
- - 💻 Skills: HTML5, CSS, JavaScript, Json, PHP, Java, SqlServer.
  - 🌱 I’m learning clean code techniques and how to improve my English.
  
 ## Nowadays, I have the following skills:
