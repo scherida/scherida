@@ -29,13 +29,3 @@
  
  ![Snake animation](https://github.com/scherida/scherida/blob/output/github-contribution-grid-snake.svg)
 </p>
-
-## ⭐ Stats:
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scherida&theme=tokyonight&layout=compact" /></td>
-      <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=scherida&show_icons=true&theme=tokyonight" /></td>
-  </tr>   
-</table>
-</center>
